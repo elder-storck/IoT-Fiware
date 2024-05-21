@@ -10,7 +10,8 @@ git checkout NGSI-LD
 ./services start;
 ```
 
-**Device Monitor
+**Device Monitor**
+
 [Device Monitor](http://localhost:3000/device/monitor)
 
 ``` bash
